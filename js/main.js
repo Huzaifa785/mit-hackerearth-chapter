@@ -66,7 +66,7 @@ jQuery(function ($) {
 
    if ($('.countdown').length > 0) {
       $(".countdown").jCounter({
-         date: '15 February 2023 12:00:00',
+         date: '25 February 2023 10:00:00',
          fallback: function () {
             console.log("count finished!")
          }
